@@ -1,3 +1,3 @@
-module src.techknowlogick.com/xgo
+module github.com/zmqccj/xgo
 
 go 1.12
