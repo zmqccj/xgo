@@ -45,7 +45,7 @@ trusted build from Docker's container registry (not insignificant in size):
 To prevent having to remember a potentially complex Docker command every time,
 a lightweight Go wrapper was written on top of it.
 
-    go get src.techknowlogick.com/xgo
+    go get github.com/zmqccj/xgo
 
 ## Usage
 
